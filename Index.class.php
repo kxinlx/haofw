@@ -1,4 +1,4 @@
 <?php
-calss Index	{
-
+	class Index	{
 }
+?>
